@@ -36,7 +36,7 @@ Tuesdays and Thursdays at 2:00p-3:20p
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
-
+Baharan Khatami: Thursdays at 12:30p - 1:30p
 
 
 **Piazza:** [link](https://piazza.com/ucsd/spring2024/dsc100) (Requires access code posted on Canvas)
